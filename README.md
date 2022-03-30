@@ -32,7 +32,7 @@ Following snippet shows how we can inject real **CrudService** for AuthComponent
 To run integration tests only 
 
 ```
-ng test --include='src/app/modulefolder/**/*.spec.ts'
+ng test --include='src/app/modulefolder/**/*.int.spec.ts'
 ```
 
 👀 **Unit Tests**
