@@ -2,7 +2,7 @@
 
 
 
-👀 In order to develop a good testing strategy for any project, we need to focus on right distribution of test cases. 
+👀 In order to develop a good testing strategy for any project, we need to focus on right distribution of test cases [ test strategy]. 
 Usually as an Engineer turned developer we tend to do things with lot of sincerity and that's what makes me post this repositoy to increase awareness on test strategy on UI side.
 
 | Type Of test | Distribution | Description | 
