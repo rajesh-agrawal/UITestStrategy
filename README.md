@@ -1,4 +1,4 @@
-# 🌱 Angular Unit and Integration Test Sample 🌱
+# 🌱 Angular Unit and Integration Test  🌱
 
 
 
@@ -22,7 +22,7 @@ Following snippet shows how we can inject real **CrudService** for AuthComponent
 ```
    await TestBed.configureTestingModule({
             declarations: [AuthComponent],
-            imports: [HttpClientModule, RouterTestingModule, FormsModule, ReactiveFormsModule, BrowserModule],
+            imports: [RouterTestingModule,HttpClientModule, FormsModule, ReactiveFormsModule, BrowserModule],
             providers: [
                 CrudService,
             ]
